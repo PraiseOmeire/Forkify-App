@@ -2,6 +2,6 @@
 Search over a million recipes with forkify app. 
 
 HOW TO RUN:
-Download ZIP from code
-run npm start on text editor terminal
-run server in local host
+1. Download ZIP from code
+2. run npm start on text editor terminal
+3. run server in local host
